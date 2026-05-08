@@ -1,8 +1,9 @@
 // List of categories for blog posts
 export const CATEGORIES = [
-	'Category 1',
-	'Category 2',
-	'Category 3',
-	'Category 4',
-	'Category 5'
+	'AI/ML',
+	'백엔드',
+	'프론트엔드',
+	'데브옵스',
+	'비지니스',
+	'디자인'
 ] as const
